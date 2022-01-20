@@ -15,7 +15,7 @@ I made this project to improve in JavaScript proficiency and to better understan
 Project was created with:
 * HTML5
 * CSS3
-* [Bulma version: 5.1.3](https://bulma.io/)
+* [Bulma version: 0.9.3](https://bulma.io/)
 * JavaScript ES6
 
 ## Setup
